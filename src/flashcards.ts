@@ -14,7 +14,7 @@ export class Flashcard {
   public readonly back: string;
   public readonly hint: string; // weak hint - you will strengthen the spec for getHint()
   public readonly tags: ReadonlyArray<string>;
-
+// iefjebdoefasjo
   constructor(
     front: string,
     back: string,
